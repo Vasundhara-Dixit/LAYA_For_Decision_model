@@ -1,0 +1,6 @@
+{
+  "is_sensitive": {
+    "type": "noul",
+    "instructions": "Is the candidate private or sensitive information in this context?"
+  }
+}
